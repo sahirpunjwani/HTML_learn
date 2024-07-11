@@ -167,8 +167,32 @@ for example:
   <body>
     <!--html-->
     <h1> Hello World </h1>
-    <img src="ball" width="200px" height="300px"> 
+    <img src="ball.png" width="200px" height="300px"> 
 
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### alt attribute
+img tag also contain alt attribute because if incase the image is not displayed so the alt text is displayed instead of image
+for example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello World </h1>
+    <img scr="basketball.png" width="200px" height="300px" alt="basketball">
     <!--js-->
     <script>
 
