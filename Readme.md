@@ -99,9 +99,83 @@ For example:
   </body>
 </html>
 ```
+# What are Attributes in HTML
+## HTML attributes provide additional information about HTML elements.
+### href attribute
+the a tag defines hyperlink and href tells where the link should go!
+For example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
 
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello World </h1>
+    <a href="google.com">Google</a>
 
+    <!--js-->
+    <script>
 
+    </script>
+  </body>
+</html>
+```
+### src attribute
+the img tag defines the image and the src tells the path to img
+For example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello World </h1>
+    <img src="football.png">
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### width and height attribute
+image tag also contains the width and height attribute to tell the width and height of img.
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello World </h1>
+    <img src="ball" width="200px" height="300px"> 
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
 
 
 
