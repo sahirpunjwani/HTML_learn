@@ -200,6 +200,220 @@ for example:
   </body>
 </html>
 ```
+# What are formatting elements in html
+## Fromating elements are used to format the text
+### bold element
+it is used to make the text bold and it is called b in HTML
+for example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello World </h1>
+    <b>This is bold text</b>
+    
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### Strong element 
+this element is used to give importance to text and it is called strong in HTML
+for example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello World </h1>
+    <strong>This is strong text</strong>
+    
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+## HTML i and em element
+### i element
+this element is used to make th text italic.
+for example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello World </h1>
+    <h1><i> Hello World </i><h1>
+    
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### em element 
+it defines the emphasized text typically the text is displayed italic inside it.
+for example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello World </h1>
+    <h1><em> Hello World </em></h1>
+    
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### small element
+it defines the the smaller txt
+for example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <p> Hello World </p>
+    <small> Hello World </small>
+    
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### mark element 
+it is used to highlight any txt 
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello <mark> World </mark></h1>
+    
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### del element 
+it defines text that has been deleted from a document. Browsers will usually strike a line through deleted text
+for example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello <del> Universe </del> World </h1>
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### ins element
+it defines an inserted text in element it basically underlines th inserted text
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello <del>Universe</del> <ins>World</ins> </h1>
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
