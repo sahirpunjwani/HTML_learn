@@ -584,7 +584,7 @@ for example:
     <div style="background-color: yellow;">
       <h1> London </h1> <br>
       <h3> It is capital city of england </h3>
-      <h3> ... </h3>
+      <h3> London is a city </h3>
     </div>
 
 
