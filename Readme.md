@@ -200,6 +200,70 @@ for example:
   </body>
 </html>
 ```
+### class attribute
+tthis attribute is used to give the element an identity to find it.
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Example </title>
+
+    <!--css-->
+    <style>
+      .heading{
+        text-align:center;
+      }
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1 class="heading"> Hello </h1>
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+> **_Note:_** other css properties you will learn in css tutorial
+
+### id attribute
+id attribute also works like class and defined as #
+and it is also used for javascript.
+
+### style attribute
+style attribute is to give the styles immidiatly to the element
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Example </title>
+
+    <!--css-->
+    <style>
+
+      
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1 style="text-align:center;"> Hello </h1>
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+> **_Note:_** other css properties you will learn in css tutorial
+
+
 # What are formatting elements in html
 ## Fromating elements are used to format the text
 ### bold element
@@ -400,12 +464,138 @@ for example:
   </body>
 </html>
 ```
+### sub element
+this element defines subscript text. Subscript text appears half a character below the normal line, and is sometimes rendered in a smaller font. Subscript text can be used for chemical formulas.
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <p> This is <sub> suscripted </sub> text.</p>
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### sup element 
+this element defines superscript text. Superscript text appears half a character above the normal line, and is sometimes rendered in a smaller font. Superscript text can be used for footnotes
+for example: 
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <p> This is <sup> superscripted </sup> text.</p>
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+# What is HTML page title
+### It is the text which is shown in the title bar
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Example </title>
+
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello </h1>
+
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+# What are div in HTML
+### it is by default a block element, meaning that it takes all available width, and comes with line breaks before and after
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Example </title>
+
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <h1> Hello </h1>
+    <p> It says <div>Hello</div> only</p>
+    <!--js-->
+    <script>
+
+    </script>
+  </body>
+</html>
+```
+### div has no required attributes but style, height, width, id and class is used with it.
+### divs are also used as containers
+for example:
+```html
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title> Example </title>
+
+    <!--css-->
+    <style>
+
+    </style>
+  </head>
+  <body>
+    <!--html-->
+    <div style="background-color: yellow;">
+      <h1> London </h1> <br>
+      <h3> It is capital city of england </h3>
+      <h3> ... </h3>
+    </div>
 
 
 
+    <!--js-->
+    <script>
 
-
-
+    </script>
+  </body>
+</html>
+```
 
 
 
